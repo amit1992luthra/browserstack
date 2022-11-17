@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13388" started-at="2022-11-14T09:51:04Z" finished-at="2022-11-14T09:51:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13388" started-at="2022-11-14T09:51:04Z" finished-at="2022-11-14T09:51:18Z">
+      <class name="selenium1.Gridexample">
+        <test-method status="PASS" signature="test1()[pri:0, instance:selenium1.Gridexample@6833ce2c]" name="test1" duration-ms="13373" started-at="2022-11-14T15:21:04Z" finished-at="2022-11-14T15:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- selenium1.Gridexample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
